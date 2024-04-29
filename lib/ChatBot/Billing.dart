@@ -24,7 +24,8 @@ class _BillingState extends State<Billing> {
                   fontSize: 22.0,
                   fontWeight: FontWeight.bold),
             ),
-          ),
+          )
+          
           Padding(
             padding: EdgeInsets.fromLTRB(250, 30, 250, 0),
             child: Container(
